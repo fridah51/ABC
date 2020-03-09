@@ -1,0 +1,13 @@
+body{
+    background-color: darksalmon;
+    color: white ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+button{
+    background-color: blue;
+    border-radius: 50%;
+    color: aquamarine;
+    padding: 15px;
+    
+}
