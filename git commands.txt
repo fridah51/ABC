@@ -1,0 +1,27 @@
+GIT COMMANDS
+
+1.git init
+initialize a .git repository
+
+2. git add (filename or . or *)
+filename adds specific file to .git
+(.)add all files except those youve ignored
+(*) adds all files
+
+
+3. git commit -m "message"
+commits all changes to the repository
+
+for first time users add a configuration 
+git config --global user.email "email"
+git config --global user.name "github username"
+
+
+4.git remote add origin 
+adds the folder location
+
+NB
+to update use commands:
+git add . 
+git commit -m"message"
+git push -u origin master
